@@ -1,0 +1,8 @@
+langchain==0.2.9
+langchain-qdrant==0.1.2
+langchain-openai==0.1.17
+chromadb==0.5.4
+load-dot==0.1.0
+sentence-transformers==3.0.1
+langchain-huggingface==0.0.3
+fastembed==0.3.4
